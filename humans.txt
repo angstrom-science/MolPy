@@ -1,0 +1,5 @@
+
+Author    : Prabhat Kumar
+Copyright : © 2015, Ångström Science
+Sponsor   : Sequomics Corporation
+Licence   : Apache
