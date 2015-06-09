@@ -7,3 +7,5 @@
 
 ### About:
 MolPy (*pronounced* "Mol Pie") is the open-source fundamental package for Molecular Properties Prediction by Python.
+
+Copyright © 2015, Ångström Science. All rights reserved.
