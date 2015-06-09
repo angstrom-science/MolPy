@@ -16,5 +16,8 @@
     "type": "git",
     "url": "https://github.com/angstrom-science/MolPy.git"
   },
+  "dependencies": {
+    "python": "3.4"
+  },
   "license": "Apache"
 }
