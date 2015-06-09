@@ -1,5 +1,8 @@
-
+======================================================
+|| MolPy: Molecular Properties Prediction by Python ||
+======================================================
 Author    : Prabhat Kumar
 Copyright : © 2015, Ångström Science
 Sponsor   : Sequomics Corporation
+Technology: Python, NumPy
 Licence   : Apache
