@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 __author__ = 'Prabhat Kumar'
-
+# [https://github.com/4979]
 def about():
   """
   [About for MolPy], gives information about it's dependencies and their version:
