@@ -1,0 +1,20 @@
+{
+  "name": "MolPy",
+  "version": "1.0.0",
+  "description": "Molecular Properties Prediction by Python",
+  "keywords": [
+    "Molecule",
+    "Properties",
+    "Prediction"
+  ],
+  "homepage": "https://github.com/angstrom-science/MolPy",
+  "author": {
+    "name": "Prabhat Kumar",
+    "url": "http://prabhatkumar.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angstrom-science/MolPy.git"
+  },
+  "license": "Apache"
+}
