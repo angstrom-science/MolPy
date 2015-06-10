@@ -15,6 +15,7 @@ def about():
   print("MolPy: Molecular Properties Prediction by Python")
   print("Principal Architect: Prabhat Kumar")
   print("Author: Prabhat Kumar")
+  print("GitHub: https://github.com/4979")
   print("Version: Hydrogen")
   print("Release: 1.0.0")
   print("License: Apache")
