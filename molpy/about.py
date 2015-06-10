@@ -13,6 +13,7 @@ def about():
   """
   print("////----------------------------------------////")
   print("MolPy: Molecular Properties Prediction by Python")
+  print("URL: https://github.com/angstrom-science/MolPy")
   print("Principal Architect: Prabhat Kumar")
   print("Author: Prabhat Kumar")
   print("GitHub: https://github.com/4979")
